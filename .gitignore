@@ -4,5 +4,3 @@
 *.idea 
 *local_env 
 *venv
-
-db_config.ini
